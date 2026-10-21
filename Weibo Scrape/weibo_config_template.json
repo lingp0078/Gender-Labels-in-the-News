@@ -1,0 +1,25 @@
+{
+  "cookie": "粘贴微博Cookie",
+  "min_comments": 5,
+  "max_posts_per_keyword": 100,
+  "max_comments_per_post": 200,
+  "request_delay_min": 3,
+  "request_delay_max": 6,
+  "page_delay_min": 5,
+  "page_delay_max": 10,
+  "keyword_delay_min": 15,
+  "keyword_delay_max": 30,
+  "max_pages_per_search": 50,
+  "keywords": [
+    {"keyword": "女司机 事故 新闻", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "A_gendered", "topic": "交通"},
+    {"keyword": "女司机 车祸", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "A_gendered", "topic": "交通"},
+    {"keyword": "女司机 撞人", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "A_gendered", "topic": "交通"},
+    {"keyword": "女子 醉驾 新闻", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "A_gendered", "topic": "交通"},
+    {"keyword": "女子 驾车 事故", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "A_gendered", "topic": "交通"},
+    {"keyword": "司机 事故 新闻", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "B_neutral", "topic": "交通"},
+    {"keyword": "司机 车祸 新闻", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "B_neutral", "topic": "交通"},
+    {"keyword": "司机 撞人 新闻", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "B_neutral", "topic": "交通"},
+    {"keyword": "醉驾 新闻", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "B_neutral", "topic": "交通"},
+    {"keyword": "驾车 事故 新闻", "start_date": "2025-07-01", "end_date": "2026-01-31", "group": "B_neutral", "topic": "交通"}
+  ]
+}
